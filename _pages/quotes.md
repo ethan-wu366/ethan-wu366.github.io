@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /quotes/
+title: quotes
+description: I like quotes
 nav: true
 nav_order: 7
 
