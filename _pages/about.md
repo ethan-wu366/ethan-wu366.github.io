@@ -18,8 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a recent from the University of California, Berkeley studying Electrical Engineering and Computer Science. 
+Hi! I'm a recent graduate from the University of California, Berkeley studying Electrical Engineering and Computer Science. 
 \\
 \\
-Professional Experience
+Professional Experience:
+\\
 I was previously an engineer at Tesla improving charging diagnostics and supporting Cybertruck field failures. 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /bookshelf/
 title: bookshelf
-description: Interested in technolocy, strategy, and philosphy!
+description: Science, technology, strategy, intelligence, and philosphy.
 nav: true
 nav_order: 7
 ---
@@ -36,6 +36,8 @@ nav_order: 7
 <h3>Reading List</h3>
 <ul>
   <li>Modern Poker Theory: Building an unbeatable strategy based on GTO principles by Michael Acebedo</li>
+  <li>Many Lives, Many Masters by Brian Weiss</li>
+  <li>The Innovators Dilemma by Clayton Christensen</li>
 </ul>
 
 </body>
